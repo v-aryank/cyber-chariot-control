@@ -705,15 +705,6 @@ BLACK + ELECTRIC BLUE + 3D ROBOTIC CAR + TECHNICAL MOTION CONTROL.
 
 Build the first polished version with working demo controls and a clear structure for future ESP32 integration.\
 
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/f6a62cb6-7fe6-4438-a539-29abbb3bee45).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
